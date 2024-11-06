@@ -1,0 +1,22 @@
+RouteID,StartLocation,EndLocation,Distance,Duration
+KM30,Kisasa,Main Gate,30,30
+LM38,Lumwana East,Main Gate,38,45
+RM14,Resettlement/Housing,Main Gate,14,20
+HM4,Housing ,Main Gate,4,10
+KM33,Kisasa/Housing,Main Gate,33,36
+ME32,Main Gate ,Enterprise,32,50
+PE18,Plant Changehouse,Enterprise,18,30
+KR24,Kisasa,Resettlement,24,25
+KH27,Kisasa,Housing,27,23
+MP14,Main Gate ,Plant Change house,14,20
+RM12,Resettlement,Main Gate,12,16
+RH10,Resettlement,Housing,10,12
+HM8,Housing (Admin),Mine Gate,8,10
+LM40,Lumwana East/Housing,Mine Gate,40,50
+MR15,Mine Gate,Roads Workshop,15,20
+MMSA17,Main Gate ,MSA Warehouse,17,22
+HM32,Holy Family,Main Gate,32,35
+HM34,Holy Family/Housing,Main Gate,34,39
+HK30,Housing Construction Offices,Kisasa,30,30
+HL40,Housing Construction Offices,Lumwana East,40,42
+HL36,Housing Bus Station,Lumwana East,36,38
